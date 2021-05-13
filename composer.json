@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swlib/saber": "^1.0",
+        "swoole/ide-helper": "~4.5.2"
+    }
+}
